@@ -1,2 +1,2 @@
 # PLN
-Repositório para a Disciplina "Processamento de Linguagem Natural" com o professor Salatiel em 2025.1
+Repositório da Disciplina "Processamento de Linguagem Natural" ministrada pelo professor Salatiel no período 2025.1!
